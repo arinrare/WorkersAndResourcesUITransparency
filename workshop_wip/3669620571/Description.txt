@@ -8,12 +8,12 @@ Installation:
 
 2. Right click on the game in Steam, select Manage > Show Local files. You will be taken to the game folder, usually '\steamapps\common\Soviet Republic\media_soviet'.
 
-3. You can back up the original Media_Soviet\editor and Media_Soviet\notifications folders first if you want to so this can be reversed without having to verify files or reinstall. 
+3. You can back up the original Media_Soviet\editor and Media_Soviet\notification folders first if you want to so this can be reversed without having to verify files or reinstall. 
 
 4. Find the folder with the mod. To do this, open another window with the same address that you have open now, then go up a few levels to the folder '\steamapps\', then go to the subfolder with the mod
 \steamapps\workshop\content\784150\3669620571
 
-5. Copy the files from the editor.zip and notifications.zip files in the mod folder into the Media_Soviet\editor and Media_Soviet/notifications folders of your game install  (in your other window). Overwrite the existing ones.
+5. Copy the files from the editor.zip and notification.zip files in the mod folder into the Media_Soviet\editor and Media_Soviet/notification folders of your game install  (in your other window). Overwrite the existing ones.
 
 6. In the game options set your left menu and bottom build menu to be collapsible
 
