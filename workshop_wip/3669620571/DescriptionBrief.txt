@@ -1,0 +1,2 @@
+I've been working on a mod to reduce burn in during the game especially for OLED monitors.
+See the Steam Workshop page for this mod get instructions on how to make it work.

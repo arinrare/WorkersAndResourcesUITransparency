@@ -1,4 +1,4 @@
-# WorkersAndResourcesUITransparencyI've been working on a mod to reduce burn in during the game especially for OLED monitors.
+I've been working on a mod to reduce burn in during the game especially for OLED monitors.
 
 Installation:
 
